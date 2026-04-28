@@ -3,7 +3,7 @@ This project is an automated Face Recognition-based Attendance System that uses 
 
 Instead of traditional manual attendance methods, this system captures live video, identifies individuals using facial features, and records attendance with timestamps. This improves accuracy, efficiency, and security in attendance management.
 
-# Objective
+Objective
 
 The main goal of this project is to:
 
